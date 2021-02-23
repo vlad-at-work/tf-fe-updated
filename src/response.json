@@ -1,0 +1,22 @@
+[{
+  "id": 1,
+  "name": "Hearty Tofu Scramble with Black Beans and Quinoa",
+  "description": "We love meals from Territory!",
+  "photo": "https://s3.amazonaws.com/territory-assets/production-photography-meals/RackMultipart20200630-3-16pf4ra.jpg",
+  "recipes": ["Paleo", "Keto-Reset"]
+},
+{
+  "id": 2,
+  "name": "Vegan Chile w/ Cilantro & Tortilla Crisps",
+  "description": "We love meals from Territory!",
+  "photo": "https://territory-assets.s3.amazonaws.com/photography-meals/386370f2-bf9d-46c6-bb31-a94efe328985/2020.jpg",
+  "recipes": ["Whole30", "LowFat", "Vegan"]
+},
+{
+  "id": 3,
+  "name": "Grateful Black Bean, Kale and Tahini Bowl",
+  "description": "We love meals from Territory!",
+  "photo": "https://s3.amazonaws.com/territory-assets/production-photography-meals/RackMultipart20200928-3-1gp6po9.jpeg",
+  "recipes": ["Vegetarian"]
+}
+]
